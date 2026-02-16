@@ -1,8 +1,15 @@
 body
 {
-background-color: black;
+text-align: center;
+font-family: 'Arial';
+background: black;
+color: antiquewhite;
 }
 text
 {
 color: #264e32;
+}
+img
+{
+    width: 200px;
 }
